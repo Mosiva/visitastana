@@ -1,0 +1,107 @@
+.thirdflex{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.thirdsectioncontent{
+    color: white;
+    height: 768px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+.thirdsectioncontent span{
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: left;
+}
+.thirdsectioncontent h1{
+    color: white;
+    font-size: 48px;
+    font-weight: 700;
+}
+.thirdsectioncontent p{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+@media only screen and (max-width: 900px) {
+    .thirdflex{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+    }
+  
+    .thirdsectioncontent{
+        color: white;
+        height: 768px;
+        background-color: transparent;
+        display: flex;
+        justify-content: center;
+        align-items: left;
+        flex-direction: column;
+        background: transparent;
+        padding: 20px;
+        background: rgba(0, 0, 0, 0.5);
+    }
+    .thirdsectioncontent span{
+        color: white;
+        font-size: 20px;
+        font-weight: 600;
+        text-align: left;
+    }
+    .thirdsectioncontent h1{
+        color: white;
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .thirdsectioncontent p{
+        color: white;
+        font-size: 10px;
+        font-weight: 500;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .thirdflex{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+    }
+  
+    .thirdsectioncontent{
+        color: white;
+        height: 768px;
+        background-color: transparent;
+        display: flex;
+        justify-content: center;
+        align-items: left;
+        flex-direction: column;
+        background: transparent;
+        padding: 20px;
+        background: rgba(0, 0, 0, 0.5);
+    }
+    .thirdsectioncontent span{
+        color: white;
+        font-size: 20px;
+        font-weight: 600;
+        text-align: left;
+    }
+    .thirdsectioncontent h1{
+        color: white;
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .thirdsectioncontent p{
+        color: white;
+        font-size: 10px;
+        font-weight: 500;
+    }
+}

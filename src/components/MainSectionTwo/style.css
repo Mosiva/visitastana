@@ -1,0 +1,69 @@
+.textright{
+    color: white;
+    text-align: left;
+}
+.textright p{
+    font-size: 18px;
+}
+.textright h1{
+    font-size: 46px;
+}
+.chislaflex{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.chislaflex p{
+    margin-top: 5px;
+    font-size: 14px;
+    color: white;
+}
+@media only screen and (max-width: 900px) {
+    .textright{
+        color: white;
+        text-align: center;
+    }
+    .textright p{
+        font-size:14px;
+        text-align: justify;
+    }
+    .textright h1{
+        font-size: 20px;
+    }
+    .chislaflex{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+        margin-top: 20px;
+    }
+    .chislaflex p{
+        margin-top: 5px;
+        font-size: 14px;
+        color: white;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .textright{
+        color: white;
+        text-align: center;
+    }
+    .textright p{
+        font-size:14px;
+        text-align: justify;
+    }
+    .textright h1{
+        font-size: 20px;
+    }
+    .chislaflex{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    .chislaflex p{
+        margin-top: 5px;
+        font-size: 14px;
+        color: white;
+    }
+}

@@ -1,0 +1,125 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 40%;
+  border-radius: 5px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  border-radius: 50%;
+}
+
+.maincontainer h4 {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
+.maincontainer p {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
+.cardflex {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+@media only screen and (max-width: 900px) {
+  .imgmain img {
+    margin-top: 20px;
+    width: 600px;
+  }
+  .cardflex {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 40%;
+    border-radius: 5px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+  }
+
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .card img {
+    border-radius: 0%;
+  }
+
+  .maincontainer h4 {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .maincontainer p {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+  }
+}
+
+
+@media only screen and (max-width: 480px) {
+  .imgmain img {
+    margin-top: 20px;
+    width: 400px;
+  }
+  .cardflex {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 40%;
+    border-radius: 5px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+  }
+
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .card img {
+    border-radius: 0%;
+  }
+
+  .maincontainer h4 {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .maincontainer p {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+  }
+}
