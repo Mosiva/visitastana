@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/visitastana/static/css/main.872ce507.css",
+    "main.js": "/visitastana/static/js/main.2a4f395f.js",
+    "static/media/BackgroundMain.png": "/visitastana/static/media/BackgroundMain.6c1922be4919bec1d54a.png",
+    "static/media/flamingo.jpg": "/visitastana/static/media/flamingo.b8fbab8de71114eb6558.jpg",
+    "static/media/MainTwo.png": "/visitastana/static/media/MainTwo.0fff9c714ffa61e82077.png",
+    "static/media/ship.png": "/visitastana/static/media/ship.35b11cc86f4fb8f3be14.png",
+    "static/media/baiterek.png": "/visitastana/static/media/baiterek.50990e50e0b721ff591b.png",
+    "static/media/konak.png": "/visitastana/static/media/konak.0d6bac5fbaee16183867.png",
+    "static/media/theatre.png": "/visitastana/static/media/theatre.470273f299699e3f00b5.png",
+    "static/media/talan.png": "/visitastana/static/media/talan.b18b021066b00b7fea95.png",
+    "static/media/people.png": "/visitastana/static/media/people.b7d2c1be1b268de5cb4c.png",
+    "static/media/shater.png": "/visitastana/static/media/shater.15276da5092b27e51a6b.png",
+    "static/media/NSM.png": "/visitastana/static/media/NSM.95d0d5a5442c36745f33.png",
+    "static/media/CardMainTwo.png": "/visitastana/static/media/CardMainTwo.b05a7a3ec516b1f0744f.png",
+    "static/media/CardMainThree.png": "/visitastana/static/media/CardMainThree.23855410fc8580242a1a.png",
+    "static/media/CardMainFour.png": "/visitastana/static/media/CardMainFour.fa278bda79f07da5bfb9.png",
+    "static/media/CardMainOne.png": "/visitastana/static/media/CardMainOne.800b265ac1b1a07f2f2d.png",
+    "static/media/zapovednik.png": "/visitastana/static/media/zapovednik.68d4ee41b0b0bb8b65b0.png",
+    "static/media/fThousand.png": "/visitastana/static/media/fThousand.9cc24357e82875a75174.png",
+    "static/media/forest.png": "/visitastana/static/media/forest.8dd67f655499a18d4975.png",
+    "index.html": "/visitastana/index.html",
+    "main.872ce507.css.map": "/visitastana/static/css/main.872ce507.css.map",
+    "main.2a4f395f.js.map": "/visitastana/static/js/main.2a4f395f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.872ce507.css",
+    "static/js/main.2a4f395f.js"
+  ]
+}
